@@ -1,1 +1,4 @@
-console.log("Hi2")
+function greet(name){
+	console.log('Hi' + name)
+}
+greet('umang')
